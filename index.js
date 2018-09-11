@@ -4,7 +4,6 @@ function happyHolidays() {
 /*This function should not accept any parameters and should return the string "Happy holidays!"*/
 }
 
-var name;
 var name ="you";
 
 function happyHolidaysTo(name) {
