@@ -4,6 +4,7 @@ function happyHolidays() {
 /*This function should not accept any parameters and should return the string "Happy holidays!"*/
 }
 
-function happyHolidaysTo("you") {
+function happyHolidaysTo(name) {
+  name === "you"
   return ('Happy holidays, ${name}!');
 }
